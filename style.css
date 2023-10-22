@@ -1,13 +1,13 @@
 :root {
-  --card-height: 300px;
+  --card-height: 201px;
   --card-width: calc(var(--card-height) / 1.5);
 }
 * {
   box-sizing: border-box;
 }
 body {
-  width: 75%;
-  height: 75%;
+  width: 100vw;
+  height: 100vh;
   margin: 0;
   display: flex;
   justify-content: center;
