@@ -108,3 +108,8 @@ body {
   transform: translate3d(0%, -30%, 100px);
 }
 
+@media (max-width: 600px) {
+  .card {
+    display: none;
+  }
+}
